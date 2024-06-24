@@ -3,3 +3,9 @@ numpy
 pandas
 bs4
 beautifulsoup4
+sqlalchemy
+ipython-sql
+matplotlib
+seaborn
+piplite
+sklearn
